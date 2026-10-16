@@ -1,6 +1,6 @@
 # mcpgate
 
-> **Self-hosted MCP gateway with PII pseudonymization and two-layer policy hooks.** Connects Claude, ChatGPT, Codex, Gemini, and any MCP-compatible agent to 40+ enterprise tools — without sending your data through a vendor cloud.
+> **Self-hosted MCP gateway with PII pseudonymization and two-layer policy hooks.** Connects Claude, ChatGPT, Codex, Gemini, and any MCP-compatible agent to 50+ enterprise tools — without sending your data through a vendor cloud.
 
 [mcpgate.de](https://mcpgate.de) · [Docs](https://mcpgate.de/docs/) · [Live demo (no signup)](https://demo.mcpgate.de) · [Pricing](https://mcpgate.de/pricing/) · [Compare](https://mcpgate.de/compare/) · [Docker Hub](https://hub.docker.com/r/mcpgate/mcpgate)
 
